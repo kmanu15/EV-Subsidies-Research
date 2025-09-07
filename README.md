@@ -19,3 +19,4 @@ This research paper examines the distribution of electric vehicle subsidies acro
 
 ## 📊 Data
 - **[Car Registration Data](https://data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd/about_data)**
+- **[Census Data](https://data.census.gov/)**
