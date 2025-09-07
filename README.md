@@ -1,7 +1,7 @@
 # EV Subsidies and Income Distribution in Washington State
 This research paper examines the distribution of electric vehicle subsidies across income groups in Washington state, assessing potential equity concerns and policy implications.
 
-## 📄 File
+## 📄 Paper
 - **[Subsidies Research Paper](https://github.com/kmanu15/EV-Subsidies-Research/blob/main/Subsidies_Research_Paper.pdf)** – Full research paper
 
 ## 📌 Key Insights
