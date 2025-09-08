@@ -1,4 +1,4 @@
-Findings
+Visualizations
 ================
 Kojo Manu
 2024-02-29
