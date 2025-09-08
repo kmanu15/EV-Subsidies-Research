@@ -163,7 +163,7 @@ ggsave("Income_map.png", plot = Income_map)
 
     ## Saving 7 x 5 in image
 
-Using EV Ration instead of EV Count for the map
+Using EV Ratio instead of EV Count for the map
 
 ``` r
 county_code <- read.csv("/Users/kojomanu/Desktop/UO/Oregon Classes/EC 418-419/Data Sets/Cleaned Data Sets/geographic_codes.csv") 
