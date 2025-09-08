@@ -16,6 +16,12 @@ This research paper examines the distribution of electric vehicle subsidies acro
 3. **Ineffective Equity Goals of Subsidies**
     - EV subsidies primarily benefit high-income households, undermining the equity goals of making EVs more accessible to low-income buyers.
     - Policy suggestions include allocating larger subsidies for low-income individuals or incentivizing the purchase of used EVs to make the program more equitable.
+  
+## 💻 Code
+This is the code that I contributed to the research paper. My partner wrote the code for all of the regression analysis.
+- **[data_manipulation.md]()**: This is where I cleaned all of the raw data sets to be used for analysis, regressions, visualizations, etc...
+- **[findings.md]()**: This is where I 
+  
 
 ## 📊 Data
 - **[Car Registration Data](https://data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd/about_data)**
