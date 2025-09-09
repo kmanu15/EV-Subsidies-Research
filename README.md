@@ -19,7 +19,7 @@ This research paper examines the distribution of electric vehicle subsidies acro
   
 ## 💻 Code
 This is the code that I contributed to the research paper. My partner wrote the code for all of the regression analysis.
-- **[data_manipulation.md](https://github.com/kmanu15/EV-Subsidies-Research/blob/main/Code/data_manipulation.md)**: Code where I cleaned all of the raw data sets to be used for analysis, regressions, visualizations, etc...
+- **[data_manipulation.R](https://github.com/kmanu15/EV-Subsidies-Research-Paper/blob/main/Code/data_manipulation.R)**: Code where I cleaned all of the raw data sets to be used for analysis, regressions, visualizations, etc...
 - **[visualizations.md](https://github.com/kmanu15/EV-Subsidies-Research/blob/main/Code/visualizations.md)**: Code for the map visualizations
   
 
